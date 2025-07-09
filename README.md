@@ -1,1 +1,1 @@
-# linuxComands
+# linuxCommands
